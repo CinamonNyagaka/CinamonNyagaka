@@ -1,4 +1,3 @@
-[![MasterHead](https://images.tech.co/wp-content/uploads/2019/03/08111228/Women-in-Technology.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Cinamon</h1>
 
 <h3 align="center">🚀 Currently perfecting the art of diagnosing diseases and debugging code simultaneously – because who says you can't prescribe antibiotics while fixing a bug? 💊🐞</h3>
