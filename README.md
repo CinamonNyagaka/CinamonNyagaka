@@ -16,10 +16,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/c_bitutu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="c_bitutu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/cinamon b. nyagaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cinamon b. nyagaka" height="30" width="40" /></a>
-<a href="https://fb.com/cinamon b. nyagaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cinamon b. nyagaka" height="30" width="40" /></a>
-<a href="https://instagram.com/@monah_nyagaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@monah_nyagaka" height="30" width="40" /></a>
+<a href="https://twitter.com/C_Bitutu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="c_bitutu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/cinamon-b-nyagaka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cinamon b. nyagaka" height="30" width="40" /></a>
+<a href="https://fb.com/nyagaka.monah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cinamon b. nyagaka" height="30" width="40" /></a>
+<a href="https://instagram.com/monah_nyagaka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@monah_nyagaka" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
